@@ -1,0 +1,354 @@
+({:title "S.S. \"Wimbledon\"",
+  :id "A01",
+  :docs
+  [{:title "Application instituting Proceeding of 16 January 1923",
+    :link
+    "https://www.icj-cij.org/files/permanent-court-of-international-justice/serie_A/A_01/02_Wimbledon_Requete.pdf"}
+   {:title "Application to Intervene of 22 May 1923",
+    :link
+    "https://www.icj-cij.org/files/permanent-court-of-international-justice/serie_A/A_01/02_Wimbledon_Requete_Intervetion.pdf"}
+   {:title
+    "Judgment of 28 June 1923 (Question of Intervention by Poland)",
+    :link
+    "https://www.icj-cij.org/files/permanent-court-of-international-justice/serie_A/A_01/01_Wimbledon_Arret_06_1923.pdf"}
+   {:title "Judgment of 17 August 1923",
+    :link
+    "https://www.icj-cij.org/files/permanent-court-of-international-justice/serie_A/A_01/03_Wimbledon_Arret_08_1923.pdf"}
+   {:title "Dissenting Opinion by M. Schücking",
+    :link
+    "https://www.icj-cij.org/files/permanent-court-of-international-justice/serie_A/A_01/04_Wimbledon_Opinion_Shucking_08_1923.pdf"}
+   {:title "Dissenting Opinion by MM. Anzilotti and Huber",
+    :link
+    "https://www.icj-cij.org/files/permanent-court-of-international-justice/serie_A/A_01/05_Wimbledon_Opinion_Anzilotti_et_Huber_08_1923.pdf"}]}
+ {:title "Mavrommatis Palestine Concessions",
+  :id "A02",
+  :docs
+  [{:title
+    "Judgment of 30 August 1924 (Objection to the Jurisdiction of the Court)",
+    :link
+    "https://www.icj-cij.org/files/permanent-court-of-international-justice/serie_A/A_02/06_Mavrommatis_en_Palestine_Arret.pdf"}
+   {:title "Dissenting Opinion by M. Finlay",
+    :link
+    "https://www.icj-cij.org/files/permanent-court-of-international-justice/serie_A/A_02/07_Mavrommatis_en_Palestine_Opinion_Finlay.pdf"}
+   {:title "Dissenting Opinion by M. Moore",
+    :link
+    "https://www.icj-cij.org/files/permanent-court-of-international-justice/serie_A/A_02/08_Mavrommatis_en_Palestine_Opinion_Moore.pdf"}
+   {:title "Dissenting Opinion by M. Bustamante",
+    :link
+    "https://www.icj-cij.org/files/permanent-court-of-international-justice/serie_A/A_02/09_Mavrommatis_en_Palestine_Opinion_Bustamante.pdf"}
+   {:title "Dissenting Opinion by M. Oda",
+    :link
+    "https://www.icj-cij.org/files/permanent-court-of-international-justice/serie_A/A_02/10_Mavrommatis_en_Palestine_Opinion_Oda.pdf"}
+   {:title "Dissenting Opinion by M. Pessôa",
+    :link
+    "https://www.icj-cij.org/files/permanent-court-of-international-justice/serie_A/A_02/11_Mavrommatis_en_Palestine_Opinion_Pessoa.pdf"}]}
+ {:title
+  "Treaty of Neuilly‚ Article 179‚ Annex‚ Paragraph 4 (Interpretation)",
+  :id "A03",
+  :docs
+  [{:title "Judgment of 12 September 1924",
+    :link
+    "https://www.icj-cij.org/files/permanent-court-of-international-justice/serie_A/A_03/12_Traite_de_Neuilly_Article_179_Arret.pdf"}
+   {:title "Annex",
+    :link
+    "https://www.icj-cij.org/files/permanent-court-of-international-justice/serie_A/A_03/13_Traite_de_Neuilly_Article_179_Annexe.pdf"}]}
+ {:title "Interpretation of Judgment No.3",
+  :id "A04",
+  :docs
+  [{:title "Judgment of 26 March 1925 (Chamber of Summary Procedure)",
+    :link
+    "https://www.icj-cij.org/files/permanent-court-of-international-justice/serie_A/A_04/14_Interpretation_Arret_No_3.pdf"}]}
+ {:title "Mavrommatis Jerusalem Concessions",
+  :id "A05",
+  :docs
+  [{:title
+    "Judgment of 26 March 1925 (including the text of the declaration of M. Altamira)",
+    :link
+    "https://www.icj-cij.org/files/permanent-court-of-international-justice/serie_A/A_05/15_Mavrommatis_a_Jerusalem_Arret_19250326.pdf"}]}
+ {:title
+  "Certain German Interests in Polish Upper Silesia (Preliminary Objections)",
+  :id "A06",
+  :docs
+  [{:title "Judgment of 25 August 1925",
+    :link
+    "https://www.icj-cij.org/files/permanent-court-of-international-justice/serie_A/A_06/16_Interets_allemands_en_Haute_Silesie_polonaise_Competence_Arret.pdf"}
+   {:title "Observations by M. Anzilloti",
+    :link
+    "https://www.icj-cij.org/files/permanent-court-of-international-justice/serie_A/A_06/17_Interets_allemands_en_Haute_Silesie_polonaise_Competence_Observations_Anzilotti.pdf"}
+   {:title "Dissenting Opinion by Count Rostworowski",
+    :link
+    "https://www.icj-cij.org/files/permanent-court-of-international-justice/serie_A/A_06/18_Interets_allemands_en_Haute_Silesie_polonaise_Competence_Opinion_Rostworowski.pdf"}]}
+ {:title "Certain German Interests in Polish Upper Silesia (Merits)",
+  :id "A07",
+  :docs
+  [{:title "Judgment of 25 May 1926",
+    :link
+    "https://www.icj-cij.org/files/permanent-court-of-international-justice/serie_A/A_07/17_Interets_allemands_en_Haute_Silesie_polonaise_Fond_Arret.pdf"}
+   {:title "Observations Lord Finlay",
+    :link
+    "https://www.icj-cij.org/files/permanent-court-of-international-justice/serie_A/A_07/18_Interets_allemands_en_Haute_Silesie_polonaise_Fond_Observations_Finlay.pdf"}
+   {:title "Dissenting Opinion by Count Rostworowski",
+    :link
+    "https://www.icj-cij.org/files/permanent-court-of-international-justice/serie_A/A_07/19_Interets_allemands_en_Haute_Silesie_polonaise_Fond_Opinion_Rostworowski.pdf"}
+   {:title "Annex 1",
+    :link
+    "https://www.icj-cij.org/files/permanent-court-of-international-justice/serie_A/A_07/20_Interets_allemands_en_Haute_Silesie_polonaise_Documents_Annexe_1.pdf"}
+   {:title "Annex 2",
+    :link
+    "https://www.icj-cij.org/files/permanent-court-of-international-justice/serie_A/A_07/21_Interets_allemands_en_Haute_Silesie_polonaise_Documents_Annexe_2.pdf"}
+   {:title "Annex 3",
+    :link
+    "https://www.icj-cij.org/files/permanent-court-of-international-justice/serie_A/A_07/22_Interets_allemands_en_Haute_Silesie_polonaise_Documents_Annexe_3.pdf"}]}
+ {:title
+  "Denunciation of the Treaty of 2 November 1865 between China and Belgium",
+  :id "A08",
+  :docs
+  [{:title "Application instituting Proceedings",
+    :link
+    "https://www.icj-cij.org/files/permanent-court-of-international-justice/serie_A/A_08/25_Denonciation_du_traite_sino_belge_Requete_et_Ordonnance_19270108.pdf"}
+   {:title "Order of 8 January 1927 (Measures of Protection)",
+    :link
+    "https://www.icj-cij.org/files/permanent-court-of-international-justice/serie_A/A_08/25_Denonciation_du_traite_sino_belge_Ordonnance_19270108.pdf"}
+   {:title "Order of 15 February 1927",
+    :link
+    "https://www.icj-cij.org/files/permanent-court-of-international-justice/serie_A/A_08/26_Denonciation_du_traite_sino_belge_Ordonnance_19270215.pdf"}
+   {:title "Order of 18 June 1927",
+    :link
+    "https://www.icj-cij.org/files/permanent-court-of-international-justice/serie_A/A_08/27_Denonciation_du_traite_sino_belge_Ordonnance_19270618.pdf"}]}
+ {:title "Factory at Chorzów (Jurisdiction)",
+  :id "A09",
+  :docs
+  [{:title "Judgment of 26 July 1927",
+    :link
+    "https://www.icj-cij.org/files/permanent-court-of-international-justice/serie_A/A_09/28_Usine_de_Chorzow_Competence_Arret.pdf"}
+   {:title "Dissenting Opinion by M. Ehrlich",
+    :link
+    "https://www.icj-cij.org/files/permanent-court-of-international-justice/serie_A/A_09/29_Usine_de_Chorzow_Competence_Opinion_Ehrlich.pdf"}]}
+ {:title "\"Lotus\"",
+  :id "A10",
+  :docs
+  [{:title "Judgment of 7 September 1927",
+    :link
+    "https://www.icj-cij.org/files/permanent-court-of-international-justice/serie_A/A_10/30_Lotus_Arret.pdf"}
+   {:title "Dissenting Opinion by M. Loder",
+    :link
+    "https://www.icj-cij.org/files/permanent-court-of-international-justice/serie_A/A_10/31_Lotus_Opinion_Loder.pdf"}
+   {:title "Dissenting Opinion by M. Weiss",
+    :link
+    "https://www.icj-cij.org/files/permanent-court-of-international-justice/serie_A/A_10/32_Lotus_Opinion_Weiss.pdf"}
+   {:title "Dissenting Opinion by Lord Finlay",
+    :link
+    "https://www.icj-cij.org/files/permanent-court-of-international-justice/serie_A/A_10/33_Lotus_Opinion_Finlay.pdf"}
+   {:title "Dissenting Opinion by M. Nyholm",
+    :link
+    "https://www.icj-cij.org/files/permanent-court-of-international-justice/serie_A/A_10/34_Lotus_Opinion_Nyholm.pdf"}
+   {:title "Dissenting Opinion by M. Moore",
+    :link
+    "https://www.icj-cij.org/files/permanent-court-of-international-justice/serie_A/A_10/35_Lotus_Opinion_Moore.pdf"}
+   {:title "Dissenting Opinion by M. Altamira",
+    :link
+    "https://www.icj-cij.org/files/permanent-court-of-international-justice/serie_A/A_10/36_Lotus_Opinion_Altamira.pdf"}
+   {:title "Annex",
+    :link
+    "https://www.icj-cij.org/files/permanent-court-of-international-justice/serie_A/A_10/37_Lotus_Annexe.pdf"}]}
+ {:title
+  "Readaptation of the Mavrommatis Jerusalem Concessions (Jurisdiction)",
+  :id "A11",
+  :docs
+  [{:title "Judgment of 10 October 1927",
+    :link
+    "https://www.icj-cij.org/files/permanent-court-of-international-justice/serie_A/A_11/38_Readaptation_des_concessions_Mavrommatis_a_Jerusalem_Competence_Arret.pdf"}
+   {:title "Dissenting Opinion by M. Nyholm",
+    :link
+    "https://www.icj-cij.org/files/permanent-court-of-international-justice/serie_A/A_11/39_Readaptation_des_concessions_Mavrommatis_a_Jerusalem_Competence_Opinion_Nyholm.pdf"}
+   {:title "Dissenting Opinion by M. Altamira",
+    :link
+    "https://www.icj-cij.org/files/permanent-court-of-international-justice/serie_A/A_11/40_Readaptation_des_concessions_Mavrommatis_a_Jerusalem_Competence_Opinion_Altamira.pdf"}
+   {:title "Dissenting Opinion by M. Caloyanni",
+    :link
+    "https://www.icj-cij.org/files/permanent-court-of-international-justice/serie_A/A_11/41_Readaptation_des_concessions_Mavrommatis_a_Jerusalem_Competence_Opinion_Caloyanni.pdf"}]}
+ {:title "Factory at Chorzów (Indemnities)",
+  :id "A12",
+  :docs
+  [{:title
+    "Order made on 21 November 1927 (Measure of Interim Protection)",
+    :link
+    "https://www.icj-cij.org/files/permanent-court-of-international-justice/serie_A/A_12/42_Usine_de_Chorzow_Indemnites_Ordonnance_19271121.pdf"}
+   {:title
+    "Request for an Interim Measure of Protection of 14 october 1927",
+    :link
+    "https://www.icj-cij.org/files/permanent-court-of-international-justice/serie_A/A_12/42_Usine_de_Chorzow_Indemnites_Ordonnance_19271121-2.pdf"}]}
+ {:title
+  "Interpretation of Judgments Nos. 7 and 8 (Factory at Chorzów)",
+  :id "A13",
+  :docs
+  [{:title "Judgment of 16 December 1927",
+    :link
+    "https://www.icj-cij.org/files/permanent-court-of-international-justice/serie_A/A_13/43_Interpretation_des_Arrets_No_7_et_8_Usine_de_Chorzow_Arret.pdf"}
+   {:title "Dissenting Opinion by M. Anzilotti",
+    :link
+    "https://www.icj-cij.org/files/permanent-court-of-international-justice/serie_A/A_13/44_Interpretation_des_Arrets_No_7_et_8_Usine_de_Chorzow_Opinion_Anzilotti.pdf"}]}
+ {:title
+  "Denunciation of the Treaty of 2 November 1865 between China and Belgium",
+  :id "A14",
+  :docs
+  [{:title "Order made on 21 February 1928",
+    :link
+    "https://www.icj-cij.org/files/permanent-court-of-international-justice/serie_A/A_14/45_Denonciation_du_traite_sino_belge_Ordonnance_19280221.pdf"}]}
+ {:title "Rights of Minorities in Upper Silesia (Minority Schools)",
+  :id "A15",
+  :docs
+  [{:title "Judgment of 26 April 1928",
+    :link
+    "https://www.icj-cij.org/files/permanent-court-of-international-justice/serie_A/A_15/46_Droits_de_minorites_en_Haute_Silesie_Ecoles_minoritaires_Arret.pdf"}
+   {:title "Dissenting Opinion by M. Huber",
+    :link
+    "https://www.icj-cij.org/files/permanent-court-of-international-justice/serie_A/A_15/47_Droits_de_minorites_en_Haute_Silesie_Ecoles_minoritaires_Opinion_Huber.pdf"}
+   {:title "Dissenting Opinion by M. Nyholm",
+    :link
+    "https://www.icj-cij.org/files/permanent-court-of-international-justice/serie_A/A_15/48_Droits_de_minorites_en_Haute_Silesie_Ecoles_minoritaires_Opinion_Nyholm.pdf"}
+   {:title "Dissenting Opinion by M. Negulesco",
+    :link
+    "https://www.icj-cij.org/files/permanent-court-of-international-justice/serie_A/A_15/49_Droits_de_minorites_en_Haute_Silesie_Ecoles_minoritaires_Opinion_Negulesco.pdf"}
+   {:title "Dissenting Opinion by M. Schucking",
+    :link
+    "https://www.icj-cij.org/files/permanent-court-of-international-justice/serie_A/A_15/50_Droits_de_minorites_en_Haute_Silesie_Ecoles_minoritaires_Opinion_Schucking.pdf"}
+   {:title "Annex 1",
+    :link
+    "https://www.icj-cij.org/files/permanent-court-of-international-justice/serie_A/A_15/52_Droits_de_minorites_en_Haute_Silesie_Ecoles_minoritaires_Annexe_1.pdf"}
+   {:title "Annex 2",
+    :link
+    "https://www.icj-cij.org/files/permanent-court-of-international-justice/serie_A/A_15/51_Droits_de_minorites_en_Haute_Silesie_Ecoles_minoritaires_Annexe_2.pdf"}]}
+ {:title
+  "Denunciation of the Treaty of 2 November 1865 between China and Belgium",
+  :id "A16",
+  :docs
+  [{:title "Order made on 13 August 1928",
+    :link
+    "https://www.icj-cij.org/files/permanent-court-of-international-justice/serie_A/A_16/53_Denonciation_du_traite_sino-belge_Ordonnance_19280813.pdf"}]}
+ {:title "Factory at Chorzów (Merits)",
+  :id "A17",
+  :docs
+  [{:title
+    "Judgment of 13 September 1928 (including the text of the declarations of Judge de Bustamante and Judge Altamira)",
+    :link
+    "https://www.icj-cij.org/files/permanent-court-of-international-justice/serie_A/A_17/54_Usine_de_Chorzow_Fond_Arret.pdf"}
+   {:title "Observation by M. Rabel",
+    :link
+    "https://www.icj-cij.org/files/permanent-court-of-international-justice/serie_A/A_17/54_Usine_de_Chorzow_Fond_Arret_1.pdf"}
+   {:title "Dissenting opinion by Lord Finlay",
+    :link
+    "https://www.icj-cij.org/files/permanent-court-of-international-justice/serie_A/A_17/54_Usine_de_Chorzow_Fond_Arret_2.pdf"}
+   {:title "Dissenting Opinion by M. Ehrlich",
+    :link
+    "https://www.icj-cij.org/files/permanent-court-of-international-justice/serie_A/A_17/55_Usine_de_Chorzow_Fond_Opinion_Ehrlich.pdf"}
+   {:title "Observations by M. Nyholm",
+    :link
+    "https://www.icj-cij.org/files/permanent-court-of-international-justice/serie_A/A_17/56_Usine_de_Chorzow_Fond_Observations_Nyholm.pdf"}
+   {:title "Order made on 13 September 1928",
+    :link
+    "https://www.icj-cij.org/files/permanent-court-of-international-justice/serie_A/A_17/57_Usine_de_Chorzow_Fond_Ordonnance_19280913.pdf"}
+   {:title "Annex",
+    :link
+    "https://www.icj-cij.org/files/permanent-court-of-international-justice/serie_A/A_17/58_Usine_de_Chorzow_Fond_Annexe.pdf"}]}
+ {:title
+  "Denunciation of the Treaty of 2 November 1865 between China and Belgium",
+  :id "A18",
+  :docs
+  [{:title "Order made on 25 May 1929",
+    :link
+    "https://www.icj-cij.org/files/permanent-court-of-international-justice/serie_A/A_18/59_Denonciation_du_traite_sino-belge_Ordonnance_19290525.pdf"}]}
+ {:title "Factory at Chorzów",
+  :id "A19",
+  :docs
+  [{:title "Order made on 25 May 1929",
+    :link
+    "https://www.icj-cij.org/files/permanent-court-of-international-justice/serie_A/A_18/60_Usine_de_Chorzow_Indemnites_Ordonnance_19290525.pdf"}
+   {:title "Annex",
+    :link
+    "https://www.icj-cij.org/files/permanent-court-of-international-justice/serie_A/A_18/61_Usine_de_Chorzow_Indemnites_Annexe.pdf"}]}
+ {:title "Serbian Loans",
+  :id "A20",
+  :docs
+  [{:title "Judgment of 12 July 1929",
+    :link
+    "https://www.icj-cij.org/files/permanent-court-of-international-justice/serie_A/A_20/62_Emprunts_Serbes_Arret.pdf"}
+   {:title "Dissention opinion by M. Bustamente",
+    :link
+    "https://www.icj-cij.org/files/permanent-court-of-international-justice/serie_A/A_20/62_Emprunts_Serbes_Arret_1.pdf"}
+   {:title "Dissention opinion by M. Pessôa",
+    :link
+    "https://www.icj-cij.org/files/permanent-court-of-international-justice/serie_A/A_20/62_Emprunts_Serbes_Arret_2.pdf"}
+   {:title "Dissention opinion by M. Novacovitch",
+    :link
+    "https://www.icj-cij.org/files/permanent-court-of-international-justice/serie_A/A_20/62_Emprunts_Serbes_Arret_3.pdf"}
+   {:title "Annex",
+    :link
+    "https://www.icj-cij.org/files/permanent-court-of-international-justice/serie_A/A_20/63_Emprunts_Serbes_Annexe.pdf"}]}
+ {:title "Brazilian Loans",
+  :id "A21",
+  :docs
+  [{:title "Judgment of 12 July 1929",
+    :link
+    "https://www.icj-cij.org/files/permanent-court-of-international-justice/serie_A/A_20/64_Emprunts_Bresiliens_Arret.pdf"}
+   {:title "Dissenting Opinion by M. de Bustamante",
+    :link
+    "https://www.icj-cij.org/files/permanent-court-of-international-justice/serie_A/A_20/65_Emprunts_Bresiliens_Opinion_Bustamante.pdf"}
+   {:title "Dissenting Opinion by M. Pessôa",
+    :link
+    "https://www.icj-cij.org/files/permanent-court-of-international-justice/serie_A/A_20/66_Emprunts_Bresiliens_Opinion_Pessoa.pdf"}
+   {:title "Annex",
+    :link
+    "https://www.icj-cij.org/files/permanent-court-of-international-justice/serie_A/A_20/67_Emprunts_Bresiliens_Annexe.pdf"}]}
+ {:title "Free Zones of Upper Savoy and the District of Gex",
+  :id "A22",
+  :docs
+  [{:title "Order made on 19 August 1929",
+    :link
+    "https://www.icj-cij.org/files/permanent-court-of-international-justice/serie_A/A_22/68_Zones_franches_Haute_Savoie_et_Pays_de_Gex_Ordonnance_19290819.pdf"}
+   {:title "Opinion by M. Nyholm",
+    :link
+    "https://www.icj-cij.org/files/permanent-court-of-international-justice/serie_A/A_22/69_Zones_franches_Haute_Savoie_et_Pays_de_Gex_Opinion_Nyholm.pdf"}
+   {:title "Opinion by M. Negulesco",
+    :link
+    "https://www.icj-cij.org/files/permanent-court-of-international-justice/serie_A/A_22/70_Zones_franches_Haute_Savoie_et_Pays_de_Gex_Opinion_Negulesco.pdf"}
+   {:title "Opinion by M. Dreyfus",
+    :link
+    "https://www.icj-cij.org/files/permanent-court-of-international-justice/serie_A/A_22/72_Zones_franches_Haute_Savoie_et_Pays_de_Gex_Opinion_Dreyfus.pdf"}
+   {:title "Observations by M. Pessôa",
+    :link
+    "https://www.icj-cij.org/files/permanent-court-of-international-justice/serie_A/A_22/73_Zones_franches_Haute_Savoie_et_Pays_de_Gex_Opinion_Pessoa.pdf"}]}
+ {:title
+  "Territorial Jurisdiction of the International Commission of the River Oder",
+  :id "A23",
+  :docs
+  [{:title
+    "Judgment of 10 September 1929 (including the text of Declarations by Judge de Bustamante and by Judge Pessôa)",
+    :link
+    "https://www.icj-cij.org/files/permanent-court-of-international-justice/serie_A/A_23/74_Commission_internationale_de_l_Oder_Arret.pdf"}
+   {:title "Observations by M. Huber",
+    :link
+    "https://www.icj-cij.org/files/permanent-court-of-international-justice/serie_A/A_22/71_Zones_franches_Haute_Savoie_et_Pays_de_Gex_Observations_Huber.pdf"}
+   {:title "Order made on 15 August 1929 (Evidence)",
+    :link
+    "https://www.icj-cij.org/files/permanent-court-of-international-justice/serie_A/A_23/75_Commission_internationale_de_l_Oder_Annexe_2_Ordonnance_19290815.pdf"}
+   {:title "Order made on 20 August 1929",
+    :link
+    "https://www.icj-cij.org/files/permanent-court-of-international-justice/serie_A/A_23/76_Commission_internationale_de_l_Oder_Annexe_3.pdf"}
+   {:title "Order made on 15 August 1929 (Submissions)",
+    :link
+    "https://www.icj-cij.org/files/permanent-court-of-international-justice/serie_A/A_23/77_Commission_internationale_de_l_Oder_Annexe_4.pdf"}]}
+ {:title
+  "Free Zones of Upper Savoy and the District of Gex (second phase)",
+  :id "A24",
+  :docs
+  [{:title "Order made on 6 December 1930",
+    :link
+    "https://www.icj-cij.org/files/permanent-court-of-international-justice/serie_A/A_24/78_Zones_franches_Haute_Savoie_et_Pays_de_Gex_2e_phase_Ordonnance_19301206.pdf"}
+   {:title
+    "Joint dissenting opinion by Judge Nyholm, Judge Altamira, Judge Hurst, Judge Yovanovitch, Judge Negulesco and Judge Eugène Dreyfus",
+    :link
+    "https://www.icj-cij.org/files/permanent-court-of-international-justice/serie_A/A_24/79_Zones_franches_Haute_Savoie_et_Pays_de_Gex_2e_phase_Opinion_commune.pdf"}
+   {:title "Observations by M. Kellogg",
+    :link
+    "https://www.icj-cij.org/files/permanent-court-of-international-justice/serie_A/A_24/80_Zones_franches_Haute_Savoie_et_Pays_de_Gex_2e_phase_Observations_Kellogg.pdf"}]})
