@@ -1,0 +1,919 @@
+({:title
+  "Appeal Relating to the Jurisdiction of the ICAO Council under Article 84 of the Convention on International Civil Aviation (Bahrain, Egypt, Saudi Arabia and United Arab Emirates v. Qatar)",
+  :link "https://www.icj-cij.org/en/case/173",
+  :intro "2018",
+  :culm "2020",
+  :type "Contentious"}
+ {:title
+  "Appeal Relating to the Jurisdiction of the ICAO Council under Article II, Section 2, of the 1944 International Air Services Transit Agreement (Bahrain, Egypt and United Arab Emirates v. Qatar)",
+  :link "https://www.icj-cij.org/en/case/174",
+  :intro "2018",
+  :culm "2020",
+  :type "Contentious"}
+ {:title "Jadhav (India v. Pakistan)",
+  :link "https://www.icj-cij.org/en/case/168",
+  :intro "2017",
+  :culm "2019",
+  :type "Contentious"}
+ {:title
+  "Legal Consequences of the Separation of the Chagos Archipelago from Mauritius in 1965",
+  :link "https://www.icj-cij.org/en/case/169",
+  :intro "2017",
+  :culm "2019",
+  :type "Advisory"}
+ {:title
+  "Obligation to Negotiate Access to the Pacific Ocean (Bolivia v. Chile)",
+  :link "https://www.icj-cij.org/en/case/153",
+  :intro "2013",
+  :culm "2018",
+  :type "Contentious"}
+ {:title
+  "Application for revision of the Judgment of 23 May 2008 in the case concerning Sovereignty over Pedra Branca/Pulau Batu Puteh, Middle Rocks and South Ledge (Malaysia/Singapore) (Malaysia v. Singapore)",
+  :link "https://www.icj-cij.org/en/case/167",
+  :intro "2017",
+  :culm "2018",
+  :type "Contentious"}
+ {:title
+  "Request for Interpretation of the Judgment of 23 May 2008 in the case concerning Sovereignty over Pedra Branca/Pulau Batu Puteh, Middle Rocks and South Ledge (Malaysia/Singapore) (Malaysia v. Singapore)",
+  :link "https://www.icj-cij.org/en/case/170",
+  :intro "2017",
+  :culm "2018",
+  :type "Contentious"}
+ {:title
+  "Certain Activities Carried Out by Nicaragua in the Border Area (Costa Rica v. Nicaragua)",
+  :link "https://www.icj-cij.org/en/case/150",
+  :intro "2010",
+  :culm "2018",
+  :type "Contentious"}
+ {:title
+  "Maritime Delimitation in the Caribbean Sea and the Pacific Ocean (Costa Rica v. Nicaragua)",
+  :link "https://www.icj-cij.org/en/case/157",
+  :intro "2014",
+  :culm "2018",
+  :type "Contentious"}
+ {:title
+  "Land Boundary in the Northern Part of Isla Portillos (Costa Rica v. Nicaragua)",
+  :link "https://www.icj-cij.org/en/case/165",
+  :intro "2017",
+  :culm "2018",
+  :type "Contentious"}
+ {:title
+  "Obligations concerning Negotiations relating to Cessation of the Nuclear Arms Race and to Nuclear Disarmament (Marshall Islands v. United Kingdom)",
+  :link "https://www.icj-cij.org/en/case/160",
+  :intro "2014",
+  :culm "2016",
+  :type "Contentious"}
+ {:title
+  "Obligations concerning Negotiations relating to Cessation of the Nuclear Arms Race and to Nuclear Disarmament (Marshall Islands v. India)",
+  :link "https://www.icj-cij.org/en/case/158",
+  :intro "2014",
+  :culm "2016",
+  :type "Contentious"}
+ {:title
+  "Obligations concerning Negotiations relating to Cessation of the Nuclear Arms Race and to Nuclear Disarmament (Marshall Islands v. Pakistan)",
+  :link "https://www.icj-cij.org/en/case/159",
+  :intro "2014",
+  :culm "2016",
+  :type "Contentious"}
+ {:title
+  "Construction of a Road in Costa Rica along the San Juan River (Nicaragua v. Costa Rica)",
+  :link "https://www.icj-cij.org/en/case/152",
+  :intro "2011",
+  :culm "2015",
+  :type "Contentious"}
+ {:title
+  "Questions relating to the Seizure and Detention of Certain Documents and Data (Timor-Leste v. Australia)",
+  :link "https://www.icj-cij.org/en/case/156",
+  :intro "2013",
+  :culm "2015",
+  :type "Contentious"}
+ {:title
+  "Application of the Convention on the Prevention and Punishment of the Crime of Genocide (Croatia v. Serbia)",
+  :link "https://www.icj-cij.org/en/case/118",
+  :intro "1999",
+  :culm "2015",
+  :type "Contentious"}
+ {:title
+  "Whaling in the Antarctic (Australia v. Japan: New Zealand intervening)",
+  :link "https://www.icj-cij.org/en/case/148",
+  :intro "2010",
+  :culm "2014",
+  :type "Contentious"}
+ {:title "Maritime Dispute (Peru v. Chile)",
+  :link "https://www.icj-cij.org/en/case/137",
+  :intro "2008",
+  :culm "2014",
+  :type "Contentious"}
+ {:title
+  "Request for Interpretation of the Judgment of 15 June 1962 in the Case concerning the Temple of Preah Vihear (Cambodia v. Thailand) (Cambodia v. Thailand)",
+  :link "https://www.icj-cij.org/en/case/151",
+  :intro "2011",
+  :culm "2013",
+  :type "Contentious"}
+ {:title "Aerial Herbicide Spraying (Ecuador v. Colombia)",
+  :link "https://www.icj-cij.org/en/case/138",
+  :intro "2008",
+  :culm "2013",
+  :type "Contentious"}
+ {:title "Frontier Dispute (Burkina Faso/Niger)",
+  :link "https://www.icj-cij.org/en/case/149",
+  :intro "2010",
+  :culm "2013",
+  :type "Contentious"}
+ {:title "Territorial and Maritime Dispute (Nicaragua v. Colombia)",
+  :link "https://www.icj-cij.org/en/case/124",
+  :intro "2001",
+  :culm "2012",
+  :type "Contentious"}
+ {:title
+  "Questions relating to the Obligation to Prosecute or Extradite (Belgium v. Senegal)",
+  :link "https://www.icj-cij.org/en/case/144",
+  :intro "2009",
+  :culm "2012",
+  :type "Contentious"}
+ {:title
+  "Ahmadou Sadio Diallo (Republic of Guinea v. Democratic Republic of the Congo)",
+  :link "https://www.icj-cij.org/en/case/103",
+  :intro "1998",
+  :culm "2012",
+  :type "Contentious"}
+ {:title
+  "Jurisdictional Immunities of the State (Germany v. Italy: Greece intervening)",
+  :link "https://www.icj-cij.org/en/case/143",
+  :intro "2008",
+  :culm "2012",
+  :type "Contentious"}
+ {:title
+  "Judgment No.2867 of the Administrative Tribunal of the International Labour Organization upon a Complaint Filed against the International Fund for Agricultural Development",
+  :link "https://www.icj-cij.org/en/case/146",
+  :intro "2010",
+  :culm "2012",
+  :type "Advisory"}
+ {:title
+  "Application of the Interim Accord of 13 September 1995 (the former Yugoslav Republic of Macedonia v. Greece)",
+  :link "https://www.icj-cij.org/en/case/142",
+  :intro "2008",
+  :culm "2011",
+  :type "Contentious"}
+ {:title
+  "Jurisdiction and Enforcement of Judgments in Civil and Commercial Matters (Belgium v. Switzerland)",
+  :link "https://www.icj-cij.org/en/case/145",
+  :intro "2009",
+  :culm "2011",
+  :type "Contentious"}
+ {:title
+  "Application of the International Convention on the Elimination of All Forms of Racial Discrimination (Georgia v. Russian Federation)",
+  :link "https://www.icj-cij.org/en/case/140",
+  :intro "2008",
+  :culm "2011",
+  :type "Contentious"}
+ {:title
+  "Certain Criminal Proceedings in France (Republic of the Congo v. France)",
+  :link "https://www.icj-cij.org/en/case/129",
+  :intro "2003",
+  :culm "2010",
+  :type "Contentious"}
+ {:title
+  "Accordance with international law of the unilateral declaration of independence in respect of Kosovo",
+  :link "https://www.icj-cij.org/en/case/141",
+  :intro "2008",
+  :culm "2010",
+  :type "Advisory"}
+ {:title
+  "Certain Questions concerning Diplomatic Relations (Honduras v. Brazil)",
+  :link "https://www.icj-cij.org/en/case/147",
+  :intro "2009",
+  :culm "2010",
+  :type "Contentious"}
+ {:title "Pulp Mills on the River Uruguay (Argentina v. Uruguay)",
+  :link "https://www.icj-cij.org/en/case/135",
+  :intro "2006",
+  :culm "2010",
+  :type "Contentious"}
+ {:title
+  "Dispute regarding Navigational and Related Rights (Costa Rica v. Nicaragua)",
+  :link "https://www.icj-cij.org/en/case/133",
+  :intro "2005",
+  :culm "2009",
+  :type "Contentious"}
+ {:title "Maritime Delimitation in the Black Sea (Romania v. Ukraine)",
+  :link "https://www.icj-cij.org/en/case/132",
+  :intro "2004",
+  :culm "2009",
+  :type "Contentious"}
+ {:title
+  "Request for Interpretation of the Judgment of 31 March 2004 in the Case concerning Avena and Other Mexican Nationals (Mexico v. United States of America) (Mexico v. United States of America)",
+  :link "https://www.icj-cij.org/en/case/139",
+  :intro "2008",
+  :culm "2009",
+  :type "Contentious"}
+ {:title
+  "Certain Questions of Mutual Assistance in Criminal Matters (Djibouti v. France)",
+  :link "https://www.icj-cij.org/en/case/136",
+  :intro "2006",
+  :culm "2008",
+  :type "Contentious"}
+ {:title
+  "Sovereignty over Pedra Branca/Pulau Batu Puteh, Middle Rocks and South Ledge (Malaysia/Singapore)",
+  :link "https://www.icj-cij.org/en/case/130",
+  :intro "2003",
+  :culm "2008",
+  :type "Contentious"}
+ {:title
+  "Territorial and Maritime Dispute between Nicaragua and Honduras in the Caribbean Sea (Nicaragua v. Honduras)",
+  :link "https://www.icj-cij.org/en/case/120",
+  :intro "1999",
+  :culm "2007",
+  :type "Contentious"}
+ {:title
+  "Application of the Convention on the Prevention and Punishment of the Crime of Genocide (Bosnia and Herzegovina v. Serbia and Montenegro)",
+  :link "https://www.icj-cij.org/en/case/91",
+  :intro "1993",
+  :culm "2007",
+  :type "Contentious"}
+ {:title
+  "Status vis-à-vis the Host State of a Diplomatic Envoy to the United Nations (Commonwealth of Dominica v. Switzerland)",
+  :link "https://www.icj-cij.org/en/case/134",
+  :intro "2006",
+  :culm "2006",
+  :type "Contentious"}
+ {:title
+  "Armed Activities on the Territory of the Congo (New Application: 2002) (Democratic Republic of the Congo v. Rwanda)",
+  :link "https://www.icj-cij.org/en/case/126",
+  :intro "2002",
+  :culm "2006",
+  :type "Contentious"}
+ {:title "Frontier Dispute (Benin/Niger)",
+  :link "https://www.icj-cij.org/en/case/125",
+  :intro "2002",
+  :culm "2005",
+  :type "Contentious"}
+ {:title "Certain Property (Liechtenstein v. Germany)",
+  :link "https://www.icj-cij.org/en/case/123",
+  :intro "2001",
+  :culm "2005",
+  :type "Contentious"}
+ {:title "Legality of Use of Force (Serbia and Montenegro v. Belgium)",
+  :link "https://www.icj-cij.org/en/case/105",
+  :intro "1999",
+  :culm "2004",
+  :type "Contentious"}
+ {:title "Legality of Use of Force (Serbia and Montenegro v. Canada)",
+  :link "https://www.icj-cij.org/en/case/106",
+  :intro "1999",
+  :culm "2004",
+  :type "Contentious"}
+ {:title "Legality of Use of Force (Serbia and Montenegro v. France)",
+  :link "https://www.icj-cij.org/en/case/107",
+  :intro "1999",
+  :culm "2004",
+  :type "Contentious"}
+ {:title "Legality of Use of Force (Serbia and Montenegro v. Germany)",
+  :link "https://www.icj-cij.org/en/case/108",
+  :intro "1999",
+  :culm "2004",
+  :type "Contentious"}
+ {:title "Legality of Use of Force (Serbia and Montenegro v. Italy)",
+  :link "https://www.icj-cij.org/en/case/109",
+  :intro "1999",
+  :culm "2004",
+  :type "Contentious"}
+ {:title
+  "Legality of Use of Force (Serbia and Montenegro v. Netherlands)",
+  :link "https://www.icj-cij.org/en/case/110",
+  :intro "1999",
+  :culm "2004",
+  :type "Contentious"}
+ {:title
+  "Legality of Use of Force (Serbia and Montenegro v. Portugal)",
+  :link "https://www.icj-cij.org/en/case/111",
+  :intro "1999",
+  :culm "2004",
+  :type "Contentious"}
+ {:title
+  "Legality of Use of Force (Serbia and Montenegro v. United Kingdom)",
+  :link "https://www.icj-cij.org/en/case/113",
+  :intro "1999",
+  :culm "2004",
+  :type "Contentious"}
+ {:title
+  "Legal Consequences of the Construction of a Wall in the Occupied Palestinian Territory",
+  :link "https://www.icj-cij.org/en/case/131",
+  :intro "2003",
+  :culm "2004",
+  :type "Advisory"}
+ {:title
+  "Avena and Other Mexican Nationals (Mexico v. United States of America)",
+  :link "https://www.icj-cij.org/en/case/128",
+  :intro "2003",
+  :culm "2004",
+  :type "Contentious"}
+ {:title
+  "Application for Revision of the Judgment of 11 September 1992 in the Case concerning the Land, Island and Maritime Frontier Dispute (El Salvador/Honduras: Nicaragua intervening) (El Salvador v. Honduras)",
+  :link "https://www.icj-cij.org/en/case/127",
+  :intro "2002",
+  :culm "2003",
+  :type "Contentious"}
+ {:title
+  "Oil Platforms (Islamic Republic of Iran v. United States of America)",
+  :link "https://www.icj-cij.org/en/case/90",
+  :intro "1992",
+  :culm "2003",
+  :type "Contentious"}
+ {:title
+  "Questions of Interpretation and Application of the 1971 Montreal Convention arising from the Aerial Incident at Lockerbie (Libyan Arab Jamahiriya v. United Kingdom)",
+  :link "https://www.icj-cij.org/en/case/88",
+  :intro "1992",
+  :culm "2003",
+  :type "Contentious"}
+ {:title
+  "Questions of Interpretation and Application of the 1971 Montreal Convention arising from the Aerial Incident at Lockerbie (Libyan Arab Jamahiriya v. United States of America)",
+  :link "https://www.icj-cij.org/en/case/89",
+  :intro "1992",
+  :culm "2003",
+  :type "Contentious"}
+ {:title
+  "Application for Revision of the Judgment of 11 July 1996 in the Case concerning Application of the Convention on the Prevention and Punishment of the Crime of Genocide (Bosnia and Herzegovina v. Yugoslavia), Preliminary Objections (Yugoslavia v. Bosnia and Herzegovina)",
+  :link "https://www.icj-cij.org/en/case/122",
+  :intro "2001",
+  :culm "2003",
+  :type "Contentious"}
+ {:title
+  "Sovereignty over Pulau Ligitan and Pulau Sipadan (Indonesia/Malaysia)",
+  :link "https://www.icj-cij.org/en/case/102",
+  :intro "1998",
+  :culm "2002",
+  :type "Contentious"}
+ {:title
+  "Land and Maritime Boundary between Cameroon and Nigeria (Cameroon v. Nigeria: Equatorial Guinea intervening)",
+  :link "https://www.icj-cij.org/en/case/94",
+  :intro "1994",
+  :culm "2002",
+  :type "Contentious"}
+ {:title
+  "Arrest Warrant of 11 April 2000 (Democratic Republic of the Congo v. Belgium)",
+  :link "https://www.icj-cij.org/en/case/121",
+  :intro "2000",
+  :culm "2002",
+  :type "Contentious"}
+ {:title "LaGrand (Germany v. United States of America)",
+  :link "https://www.icj-cij.org/en/case/104",
+  :intro "1999",
+  :culm "2001",
+  :type "Contentious"}
+ {:title
+  "Maritime Delimitation and Territorial Questions between Qatar and Bahrain (Qatar v. Bahrain)",
+  :link "https://www.icj-cij.org/en/case/87",
+  :intro "1991",
+  :culm "2001",
+  :type "Contentious"}
+ {:title
+  "Armed Activities on the Territory of the Congo (Democratic Republic of the Congo v. Burundi)",
+  :link "https://www.icj-cij.org/en/case/115",
+  :intro "1999",
+  :culm "2001",
+  :type "Contentious"}
+ {:title
+  "Armed Activities on the Territory of the Congo (Democratic Republic of the Congo v. Rwanda)",
+  :link "https://www.icj-cij.org/en/case/117",
+  :intro "1999",
+  :culm "2001",
+  :type "Contentious"}
+ {:title "Aerial Incident of 10 August 1999 (Pakistan v. India)",
+  :link "https://www.icj-cij.org/en/case/119",
+  :intro "1999",
+  :culm "2000",
+  :type "Contentious"}
+ {:title "Kasikili/Sedudu Island (Botswana/Namibia)",
+  :link "https://www.icj-cij.org/en/case/98",
+  :intro "1996",
+  :culm "1999",
+  :type "Contentious"}
+ {:title "Legality of Use of Force (Yugoslavia v. Spain)",
+  :link "https://www.icj-cij.org/en/case/112",
+  :intro "1999",
+  :culm "1999",
+  :type "Contentious"}
+ {:title
+  "Legality of Use of Force (Yugoslavia v. United States of America)",
+  :link "https://www.icj-cij.org/en/case/114",
+  :intro "1999",
+  :culm "1999",
+  :type "Contentious"}
+ {:title
+  "Difference Relating to Immunity from Legal Process of a Special Rapporteur of the Commission on Human Rights",
+  :link "https://www.icj-cij.org/en/case/100",
+  :intro "1998",
+  :culm "1999",
+  :type "Advisory"}
+ {:title
+  "Request for Interpretation of the Judgment of 11 June 1998 in the Case concerning the Land and Maritime Boundary between Cameroon and Nigeria (Cameroon v. Nigeria), Preliminary Objections (Nigeria v. Cameroon)",
+  :link "https://www.icj-cij.org/en/case/101",
+  :intro "1998",
+  :culm "1999",
+  :type "Contentious"}
+ {:title "Fisheries Jurisdiction (Spain v. Canada)",
+  :link "https://www.icj-cij.org/en/case/96",
+  :intro "1995",
+  :culm "1998",
+  :type "Contentious"}
+ {:title
+  "Vienna Convention on Consular Relations (Paraguay v. United States of America)",
+  :link "https://www.icj-cij.org/en/case/99",
+  :intro "1998",
+  :culm "1998",
+  :type "Contentious"}
+ {:title
+  "Legality of the Use by a State of Nuclear Weapons in Armed Conflict",
+  :link "https://www.icj-cij.org/en/case/93",
+  :intro "1993",
+  :culm "1996",
+  :type "Advisory"}
+ {:title "Legality of the Threat or Use of Nuclear Weapons",
+  :link "https://www.icj-cij.org/en/case/95",
+  :intro "1995",
+  :culm "1996",
+  :type "Advisory"}
+ {:title
+  "Aerial Incident of 3 July 1988 (Islamic Republic of Iran v. United States of America)",
+  :link "https://www.icj-cij.org/en/case/79",
+  :intro "1989",
+  :culm "1996",
+  :type "Contentious"}
+ {:title
+  "Maritime Delimitation between Guinea-Bissau and Senegal (Guinea-Bissau v. Senegal)",
+  :link "https://www.icj-cij.org/en/case/85",
+  :intro "1991",
+  :culm "1995",
+  :type "Contentious"}
+ {:title
+  "Request for an Examination of the Situation in Accordance with Paragraph 63 of the Court's Judgment of 20 December 1974 in the Nuclear Tests (New Zealand v. France) Case",
+  :link "https://www.icj-cij.org/en/case/97",
+  :intro "1995",
+  :culm "1995",
+  :type "Contentious"}
+ {:title "East Timor (Portugal v. Australia)",
+  :link "https://www.icj-cij.org/en/case/84",
+  :intro "1991",
+  :culm "1995",
+  :type "Contentious"}
+ {:title "Territorial Dispute (Libyan Arab Jamahiriya/Chad)",
+  :link "https://www.icj-cij.org/en/case/83",
+  :intro "1990",
+  :culm "1994",
+  :type "Contentious"}
+ {:title "Certain Phosphate Lands in Nauru (Nauru v. Australia)",
+  :link "https://www.icj-cij.org/en/case/80",
+  :intro "1989",
+  :culm "1993",
+  :type "Contentious"}
+ {:title
+  "Maritime Delimitation in the Area between Greenland and Jan Mayen (Denmark v. Norway)",
+  :link "https://www.icj-cij.org/en/case/78",
+  :intro "1988",
+  :culm "1993",
+  :type "Contentious"}
+ {:title
+  "Land, Island and Maritime Frontier Dispute (El Salvador/Honduras: Nicaragua intervening)",
+  :link "https://www.icj-cij.org/en/case/75",
+  :intro "1986",
+  :culm "1992",
+  :type "Contentious"}
+ {:title "Passage through the Great Belt (Finland v. Denmark)",
+  :link "https://www.icj-cij.org/en/case/86",
+  :intro "1991",
+  :culm "1992",
+  :type "Contentious"}
+ {:title
+  "Border and Transborder Armed Actions (Nicaragua v. Honduras)",
+  :link "https://www.icj-cij.org/en/case/74",
+  :intro "1986",
+  :culm "1992",
+  :type "Contentious"}
+ {:title "Arbitral Award of 31 July 1989 (Guinea-Bissau v. Senegal)",
+  :link "https://www.icj-cij.org/en/case/82",
+  :intro "1989",
+  :culm "1991",
+  :type "Contentious"}
+ {:title
+  "Military and Paramilitary Activities in and against Nicaragua (Nicaragua v. United States of America)",
+  :link "https://www.icj-cij.org/en/case/70",
+  :intro "1984",
+  :culm "1991",
+  :type "Contentious"}
+ {:title
+  "Applicability of Article VI, Section 22, of the Convention on the Privileges and Immunities of the United Nations",
+  :link "https://www.icj-cij.org/en/case/81",
+  :intro "1989",
+  :culm "1989",
+  :type "Advisory"}
+ {:title
+  "Elettronica Sicula S.p.A. (ELSI) (United States of America v. Italy)",
+  :link "https://www.icj-cij.org/en/case/76",
+  :intro "1987",
+  :culm "1989",
+  :type "Contentious"}
+ {:title
+  "Applicability of the Obligation to Arbitrate under Section 21 of the United Nations Headquarters Agreement of 26 June 1947",
+  :link "https://www.icj-cij.org/en/case/77",
+  :intro "1988",
+  :culm "1988",
+  :type "Advisory"}
+ {:title
+  "Border and Transborder Armed Actions (Nicaragua v. Costa Rica)",
+  :link "https://www.icj-cij.org/en/case/73",
+  :intro "1986",
+  :culm "1987",
+  :type "Contentious"}
+ {:title
+  "Application for Review of Judgment No. 333 of the United Nations Administrative Tribunal",
+  :link "https://www.icj-cij.org/en/case/72",
+  :intro "1984",
+  :culm "1987",
+  :type "Advisory"}
+ {:title "Frontier Dispute (Burkina Faso/Republic of Mali)",
+  :link "https://www.icj-cij.org/en/case/69",
+  :intro "1983",
+  :culm "1986",
+  :type "Contentious"}
+ {:title
+  "Application for Revision and Interpretation of the Judgment of 24 February 1982 in the Case concerning the Continental Shelf (Tunisia/Libyan Arab Jamahiriya) (Tunisia v. Libyan Arab Jamahiriya)",
+  :link "https://www.icj-cij.org/en/case/71",
+  :intro "1984",
+  :culm "1985",
+  :type "Contentious"}
+ {:title "Continental Shelf (Libyan Arab Jamahiriya/Malta)",
+  :link "https://www.icj-cij.org/en/case/68",
+  :intro "1982",
+  :culm "1985",
+  :type "Contentious"}
+ {:title
+  "Delimitation of the Maritime Boundary in the Gulf of Maine Area (Canada/United States of America)",
+  :link "https://www.icj-cij.org/en/case/67",
+  :intro "1981",
+  :culm "1984",
+  :type "Contentious"}
+ {:title
+  "Application for Review of Judgment No. 273 of the United Nations Administrative Tribunal",
+  :link "https://www.icj-cij.org/en/case/66",
+  :intro "1981",
+  :culm "1982",
+  :type "Advisory"}
+ {:title "Continental Shelf (Tunisia/Libyan Arab Jamahiriya)",
+  :link "https://www.icj-cij.org/en/case/63",
+  :intro "1978",
+  :culm "1982",
+  :type "Contentious"}
+ {:title
+  "United States Diplomatic and Consular Staff in Tehran (United States of America v. Iran)",
+  :link "https://www.icj-cij.org/en/case/64",
+  :intro "1979",
+  :culm "1981",
+  :type "Contentious"}
+ {:title
+  "Interpretation of the Agreement of 25 March 1951 between the WHO and Egypt",
+  :link "https://www.icj-cij.org/en/case/65",
+  :intro "1980",
+  :culm "1980",
+  :type "Advisory"}
+ {:title "Aegean Sea Continental Shelf (Greece v. Turkey)",
+  :link "https://www.icj-cij.org/en/case/62",
+  :intro "1976",
+  :culm "1978",
+  :type "Contentious"}
+ {:title "Western Sahara",
+  :link "https://www.icj-cij.org/en/case/61",
+  :intro "1974",
+  :culm "1975",
+  :type "Advisory"}
+ {:title "Nuclear Tests (Australia v. France)",
+  :link "https://www.icj-cij.org/en/case/58",
+  :intro "1973",
+  :culm "1974",
+  :type "Contentious"}
+ {:title "Nuclear Tests (New Zealand v. France)",
+  :link "https://www.icj-cij.org/en/case/59",
+  :intro "1973",
+  :culm "1974",
+  :type "Contentious"}
+ {:title "Fisheries Jurisdiction (United Kingdom v. Iceland)",
+  :link "https://www.icj-cij.org/en/case/55",
+  :intro "1972",
+  :culm "1974",
+  :type "Contentious"}
+ {:title
+  "Fisheries Jurisdiction (Federal Republic of Germany v. Iceland)",
+  :link "https://www.icj-cij.org/en/case/56",
+  :intro "1972",
+  :culm "1974",
+  :type "Contentious"}
+ {:title "Trial of Pakistani Prisoners of War (Pakistan v. India)",
+  :link "https://www.icj-cij.org/en/case/60",
+  :intro "1973",
+  :culm "1973",
+  :type "Contentious"}
+ {:title
+  "Application for Review of Judgment No. 158 of the United Nations Administrative Tribunal",
+  :link "https://www.icj-cij.org/en/case/57",
+  :intro "1972",
+  :culm "1973",
+  :type "Advisory"}
+ {:title
+  "Appeal Relating to the Jurisdiction of the ICAO Council (India v. Pakistan)",
+  :link "https://www.icj-cij.org/en/case/54",
+  :intro "1971",
+  :culm "1972",
+  :type "Contentious"}
+ {:title
+  "Legal Consequences for States of the Continued Presence of South Africa in Namibia (South West Africa) notwithstanding Security Council Resolution 276 (1970)",
+  :link "https://www.icj-cij.org/en/case/53",
+  :intro "1970",
+  :culm "1971",
+  :type "Advisory"}
+ {:title
+  "Barcelona Traction, Light and Power Company, Limited (Belgium v. Spain) (New Application: 1962)",
+  :link "https://www.icj-cij.org/en/case/50",
+  :intro "1962",
+  :culm "1970",
+  :type "Contentious"}
+ {:title
+  "North Sea Continental Shelf (Federal Republic of Germany/Denmark)",
+  :link "https://www.icj-cij.org/en/case/51",
+  :intro "1967",
+  :culm "1969",
+  :type "Contentious"}
+ {:title
+  "North Sea Continental Shelf (Federal Republic of Germany/Netherlands)",
+  :link "https://www.icj-cij.org/en/case/52",
+  :intro "1967",
+  :culm "1969",
+  :type "Contentious"}
+ {:title "South West Africa (Ethiopia v. South Africa)",
+  :link "https://www.icj-cij.org/en/case/46",
+  :intro "1960",
+  :culm "1966",
+  :type "Contentious"}
+ {:title "South West Africa (Liberia v. South Africa)",
+  :link "https://www.icj-cij.org/en/case/47",
+  :intro "1960",
+  :culm "1966",
+  :type "Contentious"}
+ {:title "Northern Cameroons (Cameroon v. United Kingdom)",
+  :link "https://www.icj-cij.org/en/case/48",
+  :intro "1961",
+  :culm "1963",
+  :type "Contentious"}
+ {:title
+  "Certain Expenses of the United Nations (Article 17, paragraph 2, of the Charter)",
+  :link "https://www.icj-cij.org/en/case/49",
+  :intro "1961",
+  :culm "1962",
+  :type "Advisory"}
+ {:title "Temple of Preah Vihear (Cambodia v. Thailand)",
+  :link "https://www.icj-cij.org/en/case/45",
+  :intro "1959",
+  :culm "1962",
+  :type "Contentious"}
+ {:title
+  "Barcelona Traction, Light and Power Company, Limited (Belgium v. Spain)",
+  :link "https://www.icj-cij.org/en/case/41",
+  :intro "1958",
+  :culm "1961",
+  :type "Contentious"}
+ {:title
+  "Arbitral Award Made by the King of Spain on 23 December 1906 (Honduras v. Nicaragua)",
+  :link "https://www.icj-cij.org/en/case/39",
+  :intro "1958",
+  :culm "1960",
+  :type "Contentious"}
+ {:title
+  "Compagnie du Port, des Quais et des Entrepôts de Beyrouth and Société Radio-Orient (France v. Lebanon)",
+  :link "https://www.icj-cij.org/en/case/42",
+  :intro "1959",
+  :culm "1960",
+  :type "Contentious"}
+ {:title
+  "Constitution of the Maritime Safety Committee of the Inter-Governmental Maritime Consultative Organization",
+  :link "https://www.icj-cij.org/en/case/43",
+  :intro "1959",
+  :culm "1960",
+  :type "Advisory"}
+ {:title
+  "Aerial Incident of 27 July 1955 (United States of America v. Bulgaria)",
+  :link "https://www.icj-cij.org/en/case/36",
+  :intro "1957",
+  :culm "1960",
+  :type "Contentious"}
+ {:title "Right of Passage over Indian Territory (Portugal v. India)",
+  :link "https://www.icj-cij.org/en/case/32",
+  :intro "1955",
+  :culm "1960",
+  :type "Contentious"}
+ {:title
+  "Aerial Incident of 7 November 1954 (United States of America v. Union of Soviet Socialist Republics)",
+  :link "https://www.icj-cij.org/en/case/44",
+  :intro "1959",
+  :culm "1959",
+  :type "Contentious"}
+ {:title
+  "Aerial Incident of 27 July 1955 (United Kingdom v. Bulgaria)",
+  :link "https://www.icj-cij.org/en/case/37",
+  :intro "1957",
+  :culm "1959",
+  :type "Contentious"}
+ {:title
+  "Sovereignty over Certain Frontier Land (Belgium/Netherlands)",
+  :link "https://www.icj-cij.org/en/case/38",
+  :intro "1957",
+  :culm "1959",
+  :type "Contentious"}
+ {:title "Aerial Incident of 27 July 1955 (Israel v. Bulgaria)",
+  :link "https://www.icj-cij.org/en/case/35",
+  :intro "1957",
+  :culm "1959",
+  :type "Contentious"}
+ {:title "Interhandel (Switzerland v. United States of America)",
+  :link "https://www.icj-cij.org/en/case/34",
+  :intro "1957",
+  :culm "1959",
+  :type "Contentious"}
+ {:title
+  "Aerial Incident of 4 September 1954 (United States of America v. Union of Soviet Socialist Republics)",
+  :link "https://www.icj-cij.org/en/case/40",
+  :intro "1958",
+  :culm "1958",
+  :type "Contentious"}
+ {:title
+  "Application of the Convention of 1902 Governing the Guardianship of Infants (Netherlands v. Sweden)",
+  :link "https://www.icj-cij.org/en/case/33",
+  :intro "1957",
+  :culm "1958",
+  :type "Contentious"}
+ {:title "Certain Norwegian Loans (France v. Norway)",
+  :link "https://www.icj-cij.org/en/case/29",
+  :intro "1955",
+  :culm "1957",
+  :type "Contentious"}
+ {:title
+  "Judgments of the Administrative Tribunal of the ILO upon Complaints Made against UNESCO",
+  :link "https://www.icj-cij.org/en/case/30",
+  :intro "1955",
+  :culm "1956",
+  :type "Advisory"}
+ {:title
+  "Admissibility of Hearings of Petitioners by the Committee on South West Africa",
+  :link "https://www.icj-cij.org/en/case/31",
+  :intro "1955",
+  :culm "1956",
+  :type "Advisory"}
+ {:title "Antarctica (United Kingdom v. Argentina)",
+  :link "https://www.icj-cij.org/en/case/26",
+  :intro "1955",
+  :culm "1956",
+  :type "Contentious"}
+ {:title "Antarctica (United Kingdom v. Chile)",
+  :link "https://www.icj-cij.org/en/case/27",
+  :intro "1955",
+  :culm "1956",
+  :type "Contentious"}
+ {:title
+  "Aerial Incident of 10 March 1953 (United States of America v. Czechoslovakia)",
+  :link "https://www.icj-cij.org/en/case/25",
+  :intro "1955",
+  :culm "1956",
+  :type "Contentious"}
+ {:title
+  "Aerial Incident of 7 October 1952 (United States of America v. Union of Soviet Socialist Republics)",
+  :link "https://www.icj-cij.org/en/case/28",
+  :intro "1955",
+  :culm "1956",
+  :type "Contentious"}
+ {:title
+  "Voting Procedure on Questions relating to Reports and Petitions concerning the Territory of South West Africa",
+  :link "https://www.icj-cij.org/en/case/24",
+  :intro "1954",
+  :culm "1955",
+  :type "Advisory"}
+ {:title "Nottebohm (Liechtenstein v. Guatemala)",
+  :link "https://www.icj-cij.org/en/case/18",
+  :intro "1951",
+  :culm "1955",
+  :type "Contentious"}
+ {:title "Electricité de Beyrouth Company (France v. Lebanon)",
+  :link "https://www.icj-cij.org/en/case/20",
+  :intro "1953",
+  :culm "1954",
+  :type "Contentious"}
+ {:title
+  "Effect of Awards of Compensation Made by the United Nations Administrative Tribunal",
+  :link "https://www.icj-cij.org/en/case/21",
+  :intro "1953",
+  :culm "1954",
+  :type "Advisory"}
+ {:title
+  "Treatment in Hungary of Aircraft and Crew of United States of America (United States of America v. Hungarian People's Republic)",
+  :link "https://www.icj-cij.org/en/case/22",
+  :intro "1954",
+  :culm "1954",
+  :type "Contentious"}
+ {:title
+  "Treatment in Hungary of Aircraft and Crew of United States of America (United States of America v. Union of Soviet Socialist Republics)",
+  :link "https://www.icj-cij.org/en/case/23",
+  :intro "1954",
+  :culm "1954",
+  :type "Contentious"}
+ {:title
+  "Monetary Gold Removed from Rome in 1943 (Italy v. France, United Kingdom of Great Britain and Northern Ireland and United States of America)",
+  :link "https://www.icj-cij.org/en/case/19",
+  :intro "1953",
+  :culm "1954",
+  :type "Contentious"}
+ {:title "Minquiers and Ecrehos (France/United Kingdom)",
+  :link "https://www.icj-cij.org/en/case/17",
+  :intro "1951",
+  :culm "1953",
+  :type "Contentious"}
+ {:title "Ambatielos (Greece v. United Kingdom)",
+  :link "https://www.icj-cij.org/en/case/15",
+  :intro "1951",
+  :culm "1953",
+  :type "Contentious"}
+ {:title
+  "Rights of Nationals of the United States of America in Morocco (France v. United States of America)",
+  :link "https://www.icj-cij.org/en/case/11",
+  :intro "1950",
+  :culm "1952",
+  :type "Contentious"}
+ {:title "Anglo-Iranian Oil Co. (United Kingdom v. Iran)",
+  :link "https://www.icj-cij.org/en/case/16",
+  :intro "1951",
+  :culm "1952",
+  :type "Contentious"}
+ {:title "Fisheries (United Kingdom v. Norway)",
+  :link "https://www.icj-cij.org/en/case/5",
+  :intro "1949",
+  :culm "1951",
+  :type "Contentious"}
+ {:title "Haya de la Torre (Colombia v. Peru)",
+  :link "https://www.icj-cij.org/en/case/14",
+  :intro "1950",
+  :culm "1951",
+  :type "Contentious"}
+ {:title
+  "Reservations to the Convention on the Prevention and Punishment of the Crime of Genocide",
+  :link "https://www.icj-cij.org/en/case/12",
+  :intro "1950",
+  :culm "1951",
+  :type "Advisory"}
+ {:title
+  "Request for Interpretation of the Judgment of 20 November 1950 in the Asylum Case (Colombia v. Peru)",
+  :link "https://www.icj-cij.org/en/case/13",
+  :intro "1950",
+  :culm "1950",
+  :type "Contentious"}
+ {:title "Asylum (Colombia v. Peru)",
+  :link "https://www.icj-cij.org/en/case/7",
+  :intro "1949",
+  :culm "1950",
+  :type "Contentious"}
+ {:title
+  "Interpretation of Peace Treaties with Bulgaria, Hungary and Romania",
+  :link "https://www.icj-cij.org/en/case/8",
+  :intro "1949",
+  :culm "1950",
+  :type "Advisory"}
+ {:title "International Status of South West Africa",
+  :link "https://www.icj-cij.org/en/case/10",
+  :intro "1949",
+  :culm "1950",
+  :type "Advisory"}
+ {:title
+  "Protection of French Nationals and Protected Persons in Egypt (France v. Egypt)",
+  :link "https://www.icj-cij.org/en/case/6",
+  :intro "1949",
+  :culm "1950",
+  :type "Contentious"}
+ {:title
+  "Competence of the General Assembly for the Admission of a State to the United Nations",
+  :link "https://www.icj-cij.org/en/case/9",
+  :intro "1949",
+  :culm "1950",
+  :type "Advisory"}
+ {:title
+  "Reparation for Injuries Suffered in the Service of the United Nations",
+  :link "https://www.icj-cij.org/en/case/4",
+  :intro "1948",
+  :culm "1949",
+  :type "Advisory"}
+ {:title
+  "Corfu Channel (United Kingdom of Great Britain and Northern Ireland v. Albania)",
+  :link "https://www.icj-cij.org/en/case/1",
+  :intro "1947",
+  :culm "1949",
+  :type "Contentious"}
+ {:title
+  "Conditions of Admission of a State to Membership in the United Nations (Article 4 of the Charter)",
+  :link "https://www.icj-cij.org/en/case/3",
+  :intro "1947",
+  :culm "1948",
+  :type "Advisory"})
