@@ -2,8 +2,12 @@
  :deps 
  {hickory/hickory  {:mvn/version "0.7.1"}
   cheshire/cheshire {:mvn/version "5.10.0"}
+  org.apache.pdfbox/pdfbox {:mvn/version "2.0.21"}
+  org.apache.pdfbox/jbig2-imageio {:mvn/version "3.0.3"}
+  pdfboxing/pdfboxing {:mvn/version "0.1.14"}
+  org.openjfx/javafx-swing {:mvn/version "14.0.2.1"}
+  cljfx/cljfx {:mvn/version "1.7.6"}
   clj-http/clj-http {:mvn/version "3.10.2"}}
  :aliases
- {:cider-clj {:extra-deps {org.clojure/clojure {:mvn/version "1.10.1"}
-                           cider/cider-nrepl {:mvn/version "0.25.3"}}
+ {:cider-clj {:extra-deps {cider/cider-nrepl {:mvn/version "0.25.3"}}
               :main-opts ["-m" "nrepl.cmdline" "--middleware" "[cider.nrepl/cider-middleware]"]}}}
